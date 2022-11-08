@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kwadwo
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> Hi, I’m Kwadwo
 - 👀 I’m an engineer with an interest in AI & Software
 - 🌱 I’m currently diving deeper into the [FastAI](https://www.fast.ai/) and [FastAPI](https://fastapi.tiangolo.com/) libraries
 - 💞️ I’m looking to collaborate on projects geared towards making the internet safer. Especially for kids. I started work on [this project](https://huggingface.co/spaces/KayO/WebsiteImageSafetyAnalyzer) not too long ago to use Computer Vision to assess website safety for kids (More CV cases and additional NLP work will follow soon).
