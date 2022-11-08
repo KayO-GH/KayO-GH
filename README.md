@@ -3,7 +3,6 @@
 <table>
 <tr>
   <td>
-    I've been running two blogs for a few years now:
     <ul>
       <li>👀 I’m an engineer with an interest in AI & Software</li>
       <li>🌱 I’m currently diving deeper into the <a href="https://www.fast.ai/">FastAI</a> and <a href="https://fastapi.tiangolo.com/">FastAPI</a> libraries</li>
